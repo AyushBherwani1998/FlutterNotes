@@ -7,9 +7,12 @@
 --- | --- | --- | --- | ---
 Sqflite | Card widget | FutureBuilder | Some Basic Widgets | Navigation & routing
 
-### Package Used
+### Package & Plugins Used
 
 Sqflite: https://pub.dartlang.org/packages/sqflite <br>
+Share: https://pub.dartlang.org/packages/share <br>
+FlutterStatusBarColor: https://pub.dartlang.org/packages/flutter_statusbarcolor <br>
+Path provider: https://pub.dartlang.org/packages/path_provider <br>
 
 ### Tutorials & Documentation
 
